@@ -42,6 +42,5 @@ Data compression tool using Huffman Encoding in C++.
 
 # 🌐 Connect With Me
 
-LinkedIn: www.linkedin.com/in/
-mansoor-ali-khan-b27a42304
+LinkedIn: www.linkedin.com/in/mansoor-ali-khan-b27a42304
 
