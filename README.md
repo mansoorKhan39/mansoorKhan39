@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Mansoor Ali Khan
 
-### Software Engineering Student | MERN Stack Developer | AI/ML Enthusiast
+### 🚀 Software Engineering Student | MERN Stack Developer | AI/ML Enthusiast
 
-💻 Passionate about building scalable web applications and solving real-world problems through software engineering.
-
-🎓 BS Software Engineering (5th Semester) — COMSATS University Islamabad
-📈 CGPA: 3.06
-🚀 Focused on Full-Stack Development, Data Science, and Machine Learning
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&weight=600\&size=28\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=900\&lines=Software+Engineering+Student;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-* 🔭 Currently building production-ready MERN Stack applications
-* 🌱 Learning Backend Development, Machine Learning, and System Design
-* 💡 Interested in Full-Stack Development, AI/ML, and Data Science
-* 📊 Experienced with data analysis, visualization, and exploratory data analysis
-* 🤝 Open to internships, collaborations, and open-source contributions
+🎓 BS Software Engineering (5th Semester) at COMSATS University Islamabad
+📈 CGPA: 3.06
+💻 MERN Stack Developer passionate about building real-world applications
+🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science
+🌱 Currently learning Backend Development, System Design, and Machine Learning
+🚀 Open to internships, collaborations, and exciting projects
 
 ---
 
@@ -46,13 +43,15 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Exclusive — Full-Stack E-Commerce App
+### 🛒 Exclusive – Full-Stack E-Commerce App
 
-Production-ready MERN e-commerce platform built from a Figma design featuring:
+Production-ready MERN e-commerce platform built from a Figma design.
+
+✨ Features:
 
 * JWT Authentication & Role-Based Access Control
 * Admin Dashboard
-* Wishlist & Persistent Cart
+* Persistent Cart & Wishlist
 * Product Search, Filtering & Sorting
 * Flash Sales Countdown
 * Coupon System
@@ -60,64 +59,81 @@ Production-ready MERN e-commerce platform built from a Figma design featuring:
 * Docker Support
 * Fully Responsive Mobile-First UI
 
-**Tech:** React, Node.js, Express.js, MongoDB, JWT, Docker
+**Tech Stack:** React, Node.js, Express.js, MongoDB, JWT, Docker
 
 ---
 
-### 📰 TruthPulse — Fake News & Sentiment EDA Dashboard
+### 📰 TruthPulse – Fake News & Sentiment EDA Dashboard
 
 A MERN + Python dashboard analyzing:
 
 * 44,898 News Articles
 * 160,000 Tweets
 
-Features:
+✨ Features:
 
-* NLP-Based Word Frequency Analysis
+* NLP Word Frequency Analysis
 * Bigram Extraction
-* Sentiment Analysis (VADER & TextBlob)
-* Interactive Data Visualizations
-* REST API Architecture
+* Sentiment Analysis using VADER & TextBlob
+* Interactive Dashboard with Recharts
+* REST APIs with Node.js & Express
 * MongoDB Atlas Integration
 
-**Tech:** React, Node.js, Express.js, MongoDB, Python, NLTK
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Python, NLTK
 
 ---
 
 ### 🌐 Portfolio Website
 
-Full-stack MERN portfolio featuring:
+Full-stack MERN portfolio website featuring:
 
 * Admin Dashboard
 * JWT Authentication
 * Contact Form Inbox
-* MongoDB Atlas
+* MongoDB Atlas Database
 * Responsive Design
 * Vercel Deployment
 
 ---
 
-### 📊 Exploratory Data Analysis (EDA)
+### 📊 Exploratory Data Analysis Project
 
-Data analysis project involving:
-
-* Data Cleaning
+* Data Cleaning & Preprocessing
 * Feature Engineering
 * Missing Value Handling
 * Statistical Analysis
 * Data Visualization
 
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansoorKhan39\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mansoorKhan39&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorKhan39&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mansoorKhan39\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mansoorKhan39&theme=github-dark-blue&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorKhan39\&layout=compact\&theme=tokyonight)
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mansoorKhan39\&theme=algolia\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📚 Currently Learning
+
+* Machine Learning with Scikit-Learn
+* Backend Architecture
+* REST API Best Practices
+* System Design Fundamentals
+* Data Science & Analytics
 
 ---
 
@@ -127,7 +143,7 @@ Data analysis project involving:
 * Full-Stack Web Development
 * Data Science & Analytics
 * Backend Engineering
-* System Design
+* Scalable Software Systems
 
 ---
 
@@ -141,6 +157,6 @@ Data analysis project involving:
 
 ---
 
-### 💡 Quote
+## ⚡ Fun Fact
 
-> "First, solve the problem. Then, write the code."
+I enjoy turning ideas into real-world software solutions and continuously exploring new technologies to expand my skill set.
