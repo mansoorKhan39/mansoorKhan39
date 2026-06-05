@@ -9,7 +9,6 @@
 ## 💫 About Me
 
 🎓 BS Software Engineering (5th Semester) at COMSATS University Islamabad
-📈 CGPA: 3.06
 💻 MERN Stack Developer passionate about building real-world applications
 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science
 🌱 Currently learning Backend Development, System Design, and Machine Learning
